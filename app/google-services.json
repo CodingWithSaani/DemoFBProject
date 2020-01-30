@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "567875188936",
+    "firebase_url": "https://demofbproject-e3348.firebaseio.com",
+    "project_id": "demofbproject-e3348",
+    "storage_bucket": "demofbproject-e3348.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567875188936:android:8a3fe2a93525320f864dfd",
+        "android_client_info": {
+          "package_name": "com.tutorials180.demofbproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567875188936-75m966r7cleu4kmii9gr57dl7aeos7dl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tutorials180.demofbproject",
+            "certificate_hash": "c53c8e58bad1a9ea985635a327f520f78c332dbb"
+          }
+        },
+        {
+          "client_id": "567875188936-o7ignedv09scnb1hqgdjrurfvb4mtan1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFi7DHYjrIrapFHV0VyIo_ZdE9BB8sCLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567875188936-o7ignedv09scnb1hqgdjrurfvb4mtan1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
